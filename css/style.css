@@ -90,8 +90,6 @@ body {
   stroke: #000;
   stroke-linecap: round;
   fill: #fff;
-  /* fill-opacity: 0.5;
-  stroke-opacity: 0.5; */
 }
 
 .clock__face {
@@ -116,8 +114,6 @@ body {
 
 .clock__minute-hand {
   stroke-width: 1.8;
-  /* fill-opacity: 0.5; */
-  /* stroke-opacity: 0.8; */
 }
 
 .clock__second-hand {
